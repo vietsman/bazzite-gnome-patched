@@ -1,6 +1,6 @@
 # bazzite-gnome-patched &nbsp; [![bluebuild build badge](https://github.com/vietsman/bc250-patched-kernel/actions/workflows/build.yml/badge.svg)](https://github.com/vietsman/bc250-patched-kernel/actions/workflows/build.yml)
 
-This repository provides a custom Bazzite GNOME image patched for AMD BC-250 boards. This includes the oberon-governor and kernel modifications for improved performance.
+Bazzite GNOME image for AMD BC-250 boards with patched kernel raising GPU max frequency to 2230 MHz (from 2000 MHz), lowering min GPU frequency to 350 MHz (from 1000 MHz), and oberon-governor included.
 ## Installation
 
 To rebase an existing Bazzite installation to this latest build:
